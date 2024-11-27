@@ -1,4 +1,6 @@
-Hi 👋, I'm Soham Chinchalkar
+                                                                  Hi 👋, I'm Soham Chinchalkar
+
+
 🔭 I’m currently pursuing my Master of Science in Information Technology from Arizona State University.
 
 🌱 I am currently focused on exploring highly interactive data visualization and machine learning projects that turn complex data into actionable insights.
