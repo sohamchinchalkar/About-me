@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **sohamchinchalkar@gmail.com**
 
-- 😃 Know about my experiences [(PORTFOLIO)]()
+- 📄 Know about my experiences [(Resume)](https://docs.google.com/document/d/14yzusfmqWp9u1QiJ7xEHadAa-Sl9x_q3dKCAvswe7BQ/edit?tab=t.0)
 
 - 🎞️ My research work [(SCOPUS PROFILE)](https://www.scopus.com/authid/detail.uri?authorId=58929595700)
+
+- 😃 Get to know more about me at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
