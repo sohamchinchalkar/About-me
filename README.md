@@ -13,7 +13,7 @@
 
 - 🎞️ My research work [(SCOPUS PROFILE)](https://www.scopus.com/authid/detail.uri?authorId=58929595700)
 
-- 😃 Get to know more about me at 
+- 😃 Get to know more about me at [(Soham's Portfolio)](https://crorox.github.io/sohamchinchalkar.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
